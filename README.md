@@ -19,12 +19,13 @@ Useful for analyzing AI conversation behavior, reviewing chatbot interactions, o
 ## 📁 Project Structure
 ~~~
 AI_Chat_Log_Summarizer/ 
-│ 
+│
+├──chat_logs          # Sample chat logs
+│  ├── chat1.txt
+│  └── chat2.txt
 ├── main.py           # Entry point to process all .txt logs 
 ├── utils.py          # Core logic: parsing, statistics, keyword extraction 
-├── chat1.txt         # Example chat log 
-├── chat2.txt         # Another sample chat log 
-├── README.md         # Project documentation
+└── README.md         # Project documentation
 ~~~
 
 
