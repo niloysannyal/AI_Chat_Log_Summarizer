@@ -8,7 +8,7 @@ A Python-based tool that analyzes AI chat logs saved in plain `.txt` files. It p
 
 This project aims to:  
 - Automatically process multiple `.txt` chat log files  
-- Extract and display basic statistics (e.g., number of user/AI messages)  
+- Extract and display basic statistics (e.g., total exchanges, number of user/AI messages, 5 most frequent keywords)  
 - Identify the most common keywords used in the conversations  
 - Generate human-readable summaries  
 
@@ -49,7 +49,7 @@ pip install nltk scikit-learn
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/AI_Chat_Log_Summarizer.git
+git clone https://github.com/niloysannyal/AI_Chat_Log_Summarizer.git
 ```
 ### 2. Navigate to the project folder
 
