@@ -59,9 +59,9 @@ cd AI_Chat_Log_Summarizer
 
 ### 4. Run the script
 
-python main.py
+**python main.py**
 
-All .txt files in the current folder will be processed, and summaries will be printed to the terminal.
+All .txt files in the 'chat_logs' folder will be processed, and summaries will be printed to the terminal.
 
 ---
 ## 💡 Testing
