@@ -8,7 +8,7 @@ A Python-based tool that analyzes AI chat logs saved in plain `.txt` files. It p
 
 This project aims to:  
 - Automatically process multiple `.txt` chat log files  
-- Extract and display basic statistics (e.g., total exchanges, number of user/AI messages, 5 most frequent keywords)  
+- Extract and display basic statistics (e.g., total exchanges, number of user/AI messages)  
 - Identify the most common keywords used in the conversations  
 - Generate human-readable summaries  
 
